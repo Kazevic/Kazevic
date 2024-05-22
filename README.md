@@ -1,7 +1,9 @@
-# Hello 👋
+# 👋 Hello
+
 I'm a back-end developer currently learning C#, SQL, and Python. I'm also acquiring knowledge and experience on data structures/algorithms, networking, system admnistration, system analysis, and graphic design.
 
-## More about me 😃
+## 😃 More about me
+
 🧑‍💻 I am usually contributing to less-known FOSS projects with translations or typo fixes or, hopefully in the future, writing real code for them.
 
 💬 You can ask me about anything; I'm always eager to learn more about the world and might have an answer to your question (or not).
