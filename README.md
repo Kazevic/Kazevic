@@ -12,4 +12,4 @@ I'm a back-end developer currently learning C#, SQL, and Python. I'm also acquir
 
 🆓 Most software I use is free and open-source (FOSS), but I'm not a strict follower of that philosophy; it's more of a simple preference.
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kazevic)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kazevic&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
