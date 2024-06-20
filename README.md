@@ -1,6 +1,6 @@
 # 👋 Hello
 
-I'm a back-end developer currently learning C# and SQL, and I have some knowledge of Python. I'm also gaining knowledge and experience in data structures and algorithms, networking, system admnistration, system analysis, and graphic design.
+I'm a junior developer currently learning C# and SQL, and I have some knowledge of Python. I'm also gaining knowledge and experience in data structures and algorithms, networking, system admnistration, system analysis, and graphic design.
 
 ## 😃 More about me
 
